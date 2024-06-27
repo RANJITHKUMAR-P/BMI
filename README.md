@@ -1,2 +1,1 @@
-# BMI
-(BMI) Body Mass Index 
+# BMI-Calculator with JavaScript
